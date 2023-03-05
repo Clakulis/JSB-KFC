@@ -10,6 +10,7 @@
     font-weight: bold;
     font-size:20px;
     color:rgb(32, 33, 36);
+    width:100vw;
 }
 .lnav{
     margin-left:300px;
@@ -32,6 +33,7 @@
     justify-content: center;
     align-items: center;
     gap:10px;   
+    width:100vw;
 }
 #order{
     font-size:15px;
@@ -43,6 +45,10 @@
     padding-left:30px;
     padding-right:30px;
     border: 0;
+}
+.big-image{
+    width:100vw;
+    height:auto;
 }
 .menus{
     margin-left: 300px;
